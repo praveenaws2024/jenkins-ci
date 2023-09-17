@@ -1,0 +1,8 @@
+User variable
+C:\Program Files\Java\jdk1.8.0_291
+C:\Users\KotaP\OneDrive\Documents\AR-Tech-Code\Maven_practice\apache-maven-3.3.9
+
+
+
+System variable
+C:\Users\KotaP\OneDrive\Documents\AR-Tech-Code\Maven_practice\apache-maven-3.3.9\bin
